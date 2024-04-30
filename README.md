@@ -17,11 +17,14 @@ R Language: Used for data manipulation and analysis.
 Libraries: dplyr, ggplot2, broom.
 Methods
 
-# Data Preprocessing: Simplification of the dataset to three columns and recoding of location data into categorical types (City, Suburb, Town, Rural).
-# Exploratory Data Analysis: Visual examination using scatter plots and histograms to understand the distribution and correlation of the data.
-# Statistical Analysis:
-# Linear Regression: To model the relationship between SAT scores and repayment rates.
-# Summary Statistics: Calculation of mean, median, and standard deviation for key variables.
+# Data Preprocessing
+Simplification of the dataset to three columns and recoding of location data into categorical types (City, Suburb, Town, Rural).
+# Exploratory Data Analysis
+Visual examination using scatter plots and histograms to understand the distribution and correlation of the data.
+# Statistical Analysis
+Linear Regression: To model the relationship between SAT scores and repayment rates.
+# Summary Statistics
+Calculation of mean, median, and standard deviation for key variables.
 
 # Key Findings
 
